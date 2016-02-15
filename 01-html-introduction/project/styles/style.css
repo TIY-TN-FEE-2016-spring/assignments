@@ -1,0 +1,83 @@
+/*Grey: #272727*/
+/*Red: #F25F5C*/
+/*Yellow: #FFE066*/
+/*Blue: #247BA0*/
+/*Green: #70C1B3*/
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  color: #272727;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.top-nav__list {
+  max-width: 1040px;
+  margin: 0 auto;
+
+  overflow: auto;
+}
+
+.top-nav__item {
+  float: right;
+  font-size: 1.6rem;
+  line-height: 3.2rem;
+  margin: 0 1rem;
+}
+
+.top-nav__item--brand {
+  float: right;
+}
+
+.top-nav {
+  background: #272727;
+  color: antiquewhite;
+}
+
+.content {
+  padding: 0 1rem;
+  max-width: 1040px
+  margin: auto
+}
+
+.student-info {
+  padding: 2rem;
+  max-width: 1040px;
+  margin: 4rem auto;
+
+  border-top: 1px #878787 solid;
+}
+
+.student-info__profile-pic {
+  display: block;
+  margin: auto;
+
+  border-radius: 50%;
+  width: 5rem;
+}
+
+.student-info__name, .student-info__bio {
+  text-align: center;
+  margin: 0.4rem;
+}
+
+.student-info__social-list {
+  margin: auto
+  text-align: center;
+}
+
+.student-info__social-item {
+  display: inline-block;
+}
