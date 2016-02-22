@@ -58,8 +58,8 @@ Using the given `index.html` and `style.css` file, update the markup (classes an
 ### Tasks
 
 ```
-* [ ] Create new directory
-* [ ] Initialize Git
+* [ ] Create new directory named `01-html-introduction`
+* [ ] Initialize Git using `git init`
 * [ ] Create new repo using `hub create`
 * [ ] Open project in your editor
 * [ ] Copy contents of `index.html`

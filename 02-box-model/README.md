@@ -48,7 +48,7 @@ Normal Mode description
 * [ ] Use the `hub create` `03-box-model`
 * [ ] Use the `git` cli to create a branch called `develop`
 * [ ] Checkpoint: Link CSS to HTML page
-* [ ] Use `hub pull-request` to create a new pull request
+* [ ] Use `hub pull-request -m "Turning in assignment"` to create a new pull request
 * [ ] Post link to pull request on online.theironyard.com
   * [ ] Checkpoint: Create markup to represent one grid item
     * [ ] Markup: Image
