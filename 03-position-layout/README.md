@@ -153,6 +153,7 @@ Recreate the following layout in HTML and CSS
 - http://learnlayout.com/
 - http://fillerama.com/
 - http://lorempixel.com/
+- Media Object Blog Post: http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
 - Mozilla Developer Network: https://developer.mozilla.org/en-US/
 - List of HTML tags: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 - List of HTML attributes: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
