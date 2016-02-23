@@ -2,7 +2,7 @@
 
 ## Description
 
-This exercise will test your knowledge of CSS positioning
+This challenge will test your knowledge of CSS positioning
 
 ## Objectives
 
