@@ -3,7 +3,7 @@
 ## Description
 
 Grouping HTML elements and working with layouts in CSS are two of the most important skills to learn.
-This exercise tests both of these skills.
+This assignment tests both of these skills.
 
 ### Learning Objectives
 
@@ -18,6 +18,7 @@ After completing this assignment, you should...
 After completing this assignment, you be able to effectively use
 
 * `div`s and other "div-like" elements to group HTML for layout and semantics
+* Use Double Container Pattern
 * Use CSS Floats
 * Turn in Homework Assignments
   - Create Git Repo

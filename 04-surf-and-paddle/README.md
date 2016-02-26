@@ -9,16 +9,16 @@ In this assignment, you'll be taking an image and turning it into a functioning 
 
 ### Learning Objectives
 
-After completing this assignment, you should...
+After completing this assignment, you should be able to:
 
-* Create semantic HTML for a full page.
+* Create semantic HTML for a full page and layout
 * Understand and able to leverage the many css properties to style content.
 * Use CSS to create layout for the HTML page.
 
 
 ### Performance Objectives
 
-After completing this assignment, you be able to effectively use
+After completing this assignment, you should be able to effectively use:
 
 * Use semantic html tags where needed
 * Effectively utilize some common css flex box for layouts
