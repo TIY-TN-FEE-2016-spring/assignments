@@ -73,7 +73,7 @@ Using the given `index.html` and `style.css` file, update the markup (classes an
 * [X] Replace title with your name
 * [X] Commit change and push to github
 * [X] Create a new pull request with `hub pull-request -m "Turning in assignment"`
-* [ ] Submit link to pull request to online.theironyard.com
+* [X] Submit link to pull request to online.theironyard.com
 * [ ] Fix broken or incomplete assets or links
 * [ ] Fill in classes for elements to match styles
 * [ ] Update broken CSS rules
