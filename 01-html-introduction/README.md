@@ -1,4 +1,4 @@
-# html-intro-1
+# HTML Introduction
 
 ## Description
 
