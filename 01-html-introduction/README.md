@@ -37,9 +37,9 @@ After completing this assignment, you should be able to effectively:
 ### Deliverables
 
 - a git repo containing:
-    - `index.html` based on [./project/index.html](./index.html)
+    - `index.html` based on [index.html](./project/index.html)
     - `styles` folder
-        - `style.css` based on [./project/style.css](./style.css)
+        - `style.css` based on [style.css](./project/style.css)
     - `images` folder
         - with any images you used with your design
 
