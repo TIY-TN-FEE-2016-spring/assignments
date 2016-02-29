@@ -58,21 +58,21 @@ Using the given `index.html` and `style.css` file, update the markup (classes an
 ### Tasks
 
 ```
-* [ ] Create new directory named `01-html-introduction`
-* [ ] Initialize Git using `git init`
-* [ ] Create new repo using `hub create`
-* [ ] Open project in your editor
-* [ ] Copy contents of `index.html`
-* [ ] Copy contents of `style.css`
-* [ ] Commit this base set of files
-* [ ] Push commit to github `git push -u origin master`
-* [ ] Create a new `develop` branch
-* [ ] Read existing HTML
-* [ ] Read existing CSS files
-* [ ] Open `index.html` in your browser
-* [ ] Replace title with your name
-* [ ] Commit change and push to github
-* [ ] Create a new pull request with `hub pull-request -m "Turning in assignment"`
+* [X] Create new directory named `01-html-introduction`
+* [X] Initialize Git using `git init`
+* [X] Create new repo using `hub create`
+* [X] Open project in your editor
+* [X] Copy contents of `index.html`
+* [X] Copy contents of `style.css`
+* [X] Commit this base set of files
+* [X] Push commit to github `git push -u origin master`
+* [X] Create a new `develop` branch
+* [X] Read existing HTML
+* [X] Read existing CSS files
+* [X] Open `index.html` in your browser
+* [X] Replace title with your name
+* [X] Commit change and push to github
+* [X] Create a new pull request with `hub pull-request -m "Turning in assignment"`
 * [ ] Submit link to pull request to online.theironyard.com
 * [ ] Fix broken or incomplete assets or links
 * [ ] Fill in classes for elements to match styles
