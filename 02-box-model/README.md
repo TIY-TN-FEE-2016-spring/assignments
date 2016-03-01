@@ -51,7 +51,7 @@ Normal Mode description
 * [ ] Checkpoint: Link CSS to HTML page
 * [ ] Use `hub pull-request -m "Turning in assignment"` to create a new pull request
 * [ ] Post link to pull request on online.theironyard.com
-  * [ ] Checkpoint: Create markup to represent one grid item
+  * [ ] Checkpoint: Create markup to represent one grid item or column
     * [ ] Markup: Image
     * [ ] Markup: Number
     * [ ] Markup: Octocat name
