@@ -70,7 +70,6 @@ Recreate the following layout in HTML and CSS
 
 ## Tasks
 
-```
 * [ ] Create new directory named `03-position-layout`
 * [ ] Initialize Git using `git init`
 * [ ] Create new repo using `hub create`
@@ -146,7 +145,6 @@ Recreate the following layout in HTML and CSS
     * [ ] **Style**: Alert box Media Object Username
     * [ ] **Style**: Alert box Media Object Description
     * [ ] **Style**: Alert box Media Object Button
-```
 
 ## Additional Resources
 
