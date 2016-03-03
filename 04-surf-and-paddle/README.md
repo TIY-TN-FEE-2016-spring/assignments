@@ -48,6 +48,14 @@ Using the image located `assets/surf-and-paddle.png`, create a html document usi
 
 Complete Normal Mode then make the website fully responsive and adhering to this [responsive wireframe](assets/surf-and-paddle-responsive.pdf).
 
+## Tips
+
+Most of this layout and site can be accomplished with flexbox layouts.
+The hero area in the banner will need to use `position: absolution` and transform centering.
+The footer Other Post Items will also use some `position` to get the titles to show above each image.
+
+For now, ignore the icons and blue overlays for the pictures at the bottom.
+
 ## Tasks
 
 ```
