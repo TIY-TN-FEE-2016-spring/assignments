@@ -22,7 +22,7 @@ After completing this assignment, you should be able to effectively use:
 
 * Use semantic html tags where needed
 * Effectively utilize some common css flex box for layouts
-* Able to leverage and understand the use of `absolute` vs `relative` in context of positioning.
+* Able to leverage and understand the use of flexbox, floats, and position in context of positioning (most of the layout should be flexbox or no positioning work).
 * The menu items need to also have differing states based on a hover, and although not articulated in the provided image, they need to be styled.
 
 ## Details
@@ -51,38 +51,72 @@ Complete Normal Mode then make the website fully responsive and adhering to this
 ## Tasks
 
 ```
-* [ ] Create a new Issue with these tasks!
-* [ ] Use the `git` cli to initialize a new project
-* [ ] Checkpoint: Created and committed `index.html` and `app.css` boilerplate
-* [ ] Use the `hub` cli to create a repository called `05-surf-and-paddle`
-* [ ] Use the `git` cli to create a branch called `develop`
-* [ ] In Github, open a PR _from_ `develop` _into_ `master`
-* [ ] Use CDN to link to Font Awesome
-* [ ] Create the markup to represent the pictured site
-  * [ ] Checkpoint: Create markup to represent one item in the timeline
+* [ ] Follow the homework checklist to create and start project.
+* [ ] **GOAL**: Site Header/Hero
+  - [ ] Checkpoint: Create markup for Header/Hero
     * [ ] Markup: Navbar
-    * [ ] Markup: Header
-    * [ ] Markup: Left Column
-    * [ ] Markup: Sidebar
-    * [ ] Markup: "Most Popular Posts" with Images
-    * [ ] Markup: Footer
-  * [ ] Checkpoint: Duplicate the first item to create multiple items to style
-  * [ ] Complete: Push `index.html`
-* [ ] Add styles for page
-  * [ ] Checkpoint: Style the Layout of the site
-    * [ ] Style: Layout and Backgrounds Navbar
-    * [ ] Style: Layout and Backgrounds Header
-    * [ ] Style: Layout and Backgrounds Left Column
-    * [ ] Style: Layout and Backgrounds Sidebar
-    * [ ] Style: Layout and Backgrounds "Most Popular Posts" with Images
-    * [ ] Style: Layout and Backgrounds Sticky Footer
-  * [ ] Checkpoint: Style the details for the site
-  * [ ] Style: Details Navbar
-  * [ ] Style: Details Header
-  * [ ] Style: Details Left Column
-  * [ ] Style: Details Sidebar
-  * [ ] Style: Details "Most Popular Posts" with Images
-  * [ ] Style: Details Footer
+      - [ ] Markup: Navbar Logo
+      - [ ] Markup: About Link
+      - [ ] Markup: Search Link
+    * [ ] Markup: Hero Title ("Surf & Paddle Co")
+    * [ ] Markup: Hero Sub Title ("An Ironyard Academy Project Est Fall 2013")
+  - [ ] Checkpoint: Style for Header/Hero
+    * [ ] Style: Banner Background
+    * [ ] Style: Navbar Logo
+    * [ ] Style: Navbar About
+    * [ ] Style: Navbar Search
+    * [ ] Style: Hero Text
+    * [ ] Style: Hero Subtitle
+* [ ] **GOAL**: Site Main
+  - [ ] Checkpoint: Create markup for Site Main
+    * [ ] Markup: Left Article
+      - [ ] Markup: Article Heading
+      - [ ] Markup: Article Author Avatar
+      - [ ] Markup: Article Publish Date
+      - [ ] Markup: Article text
+      - [ ] Markup: Article quote
+    * [ ] Markup: Right Article Details
+      - [ ] Markup: Author Image
+      - [ ] Markup: Author Name
+      - [ ] Markup: Author Social Links
+      - [ ] Markup: Ad Image
+      - [ ] Markup: Ad Link
+      - [ ] Markup: Sidebar 2nd Article Link
+      - [ ] Markup: Sidebar 2nd Article Short
+  - [ ] Checkpoint: Style for Site Main
+    * [ ] Style: Left Article
+      - [ ] Style: Article Heading
+      - [ ] Style: Article Author Avatar
+      - [ ] Style: Article Publish Date
+      - [ ] Style: Article text
+      - [ ] Style: Article quote
+    * [ ] Style: Right Article Details
+      - [ ] Style: Author Image
+      - [ ] Style: Author Name
+      - [ ] Style: Author Social Links
+      - [ ] Style: Ad Image
+      - [ ] Style: Ad Link
+      - [ ] Style: Sidebar 2nd Article Link
+      - [ ] Style: Sidebar 2nd Article Short
+*[ ] **GOAL**: Site Footer
+  - [ ] Checkpoint: Create markup for Site Footer
+    * [ ] Markup: Footer heading
+    * [ ] Markup: Footer Other Posts (Images)
+      - Markup: Footer Other Post Item Picture
+      - Markup: Footer Other Post Item Title
+    * [ ] Markup: Footer Navbar
+      - Markup: Footer Navbar Logo
+      - Markup: Footer Navbar Legal
+      - Markup: Footer Navbar Nav Items
+  - [ ] Checkpoint: Style Site Footer
+    * [ ] Style: Footer heading
+    * [ ] Style: Footer Other Posts (Images)
+      - Style: Footer Other Post Item Picture
+      - Style: Footer Other Post Item Title
+    * [ ] Style: Footer Navbar
+      - Style: Footer Navbar Logo
+      - Style: Footer Navbar Legal
+      - Style: Footer Navbar Nav Items
 ```
 
 ## Additional Resources
