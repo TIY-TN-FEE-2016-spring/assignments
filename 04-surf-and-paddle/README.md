@@ -40,7 +40,7 @@ After completing this assignment, you should be able to effectively use:
 
 ## Normal Mode
 
-Using the image located `assets/surf-and-paddle.png`, create a html document using html and css to look like below, but be a function website:
+Using the image below, create a html document using html and css to look like below, but be a function website:
 
 ![Surf and paddle image](assets/surf-and-paddle.png)
 
@@ -110,22 +110,24 @@ For now, ignore the icons and blue overlays for the pictures at the bottom.
   - [ ] Checkpoint: Create markup for Site Footer
     * [ ] Markup: Footer heading
     * [ ] Markup: Footer Other Posts (Images)
-      - Markup: Footer Other Post Item Picture
-      - Markup: Footer Other Post Item Title
+      - [ ] Markup: Footer Other Post Item Picture
+      - [ ] Markup: Footer Other Post Item Title
     * [ ] Markup: Footer Navbar
-      - Markup: Footer Navbar Logo
-      - Markup: Footer Navbar Legal
-      - Markup: Footer Navbar Nav Items
+      - [ ] Markup: Footer Navbar Logo
+      - [ ] Markup: Footer Navbar Legal
+      - [ ] Markup: Footer Navbar Nav Items
   - [ ] Checkpoint: Style Site Footer
     * [ ] Style: Footer heading
     * [ ] Style: Footer Other Posts (Images)
-      - Style: Footer Other Post Item Picture
-      - Style: Footer Other Post Item Title
+      - [ ] Style: Footer Other Post Item Picture
+      - [ ] Style: Footer Other Post Item Title
     * [ ] Style: Footer Navbar
-      - Style: Footer Navbar Logo
-      - Style: Footer Navbar Legal
-      - Style: Footer Navbar Nav Items
+      - [ ] Style: Footer Navbar Logo
+      - [ ] Style: Footer Navbar Legal
+      - [ ] Style: Footer Navbar Nav Items
 ```
+
+* Todos Gist for following along: https://gist.github.com/rtablada/91eb12b90c8a57c29f2e
 
 ## Additional Resources
 
