@@ -122,7 +122,7 @@ And the `bg.png` is the image below:
   - [ ] Style: Field `flex-grow`
 ```
 
-* Todos Gist for following along: https://gist.github.com/rtablada/91eb12b90c8a57c29f2e
+* Todos Gist for following along: https://gist.github.com/rtablada/2b66f5df8868834dba9d
 
 ## Additional Resources
 
