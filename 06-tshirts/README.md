@@ -41,15 +41,11 @@ Recreate the following design using HTML and SASS.
 
 #### Desktop
 
-![Desktop](./desktop.png)
+![Desktop](./tshirt-desktop.gif)
 
 #### Tablet
 
-![Tablet](./tablet.png)
-
-#### Phone
-
-![Phone](./phone.png)
+![Tablet](./tshirt-tablet.gif)
 
 >You should replicate the design as closely as possible (don't take creative liberties with this one).
 
@@ -68,12 +64,23 @@ The designer has given you a few things to work with:
 * [ ] Change directory into the newly created `06-tshirts` directory
 * [ ] Create a `develop` branch
 * [ ] Run `npm install` to install local dependancies for build tools
-* [ ] **GOAL**: Create 3 Wide Grid
-  - [ ] Style: Border around Grid Items
-  - [ ] Style: Image sizes within Grid Item
-  - [ ] Style: Grid flex
-  - [ ] Style: Grid item size
-* [ ] **GOAL**:
+* [ ] **GOAL**: Style Grid Basics
+  * [ ] Outer container gutter padding
+  * [ ] Inner container max width
+  * [ ] Stack Grid Items Horizontally
+* [ ] **GOAL**: Style Shop Item
+  - [ ] Style: Border around Shop Item
+  - [ ] Style: Image Gutter
+  - [ ] Style: Button Row
+  - [ ] Style: Button Border
+  - [ ] Style: Drop Down Position
+  - [ ] Style: Drop Down Stack
+  - [ ] Style: Drop Down Item Border
+* [ ] **GOAL**: Style Color Icons
+  - [ ] Style: Pink Box
+  - [ ] Style: Blue Box
+  - [ ] Style: Yellow Box
+  - [ ] Style: Green Box
 ```
 
 * Todos Gist for following along:
