@@ -76,11 +76,22 @@ The designer has given you a few things to work with:
   - [ ] Style: Drop Down Position
   - [ ] Style: Drop Down Stack
   - [ ] Style: Drop Down Item Border
+  - [ ] Style: Button Hover State
+  - [ ] Style: Dropdown Hover State
 * [ ] **GOAL**: Style Color Icons
   - [ ] Style: Pink Box
   - [ ] Style: Blue Box
   - [ ] Style: Yellow Box
   - [ ] Style: Green Box
+* [ ] **GOAL**: Grid Settings Phone
+  - [ ] Style: Grid Wrap
+  - [ ] Style: Grid Min Width
+* [ ] **GOAL**: Tablet Layout
+  - [ ] Style: Full Width
+  - [ ] Style: Shop Item Changes
+  - [ ] Style: Buttons
+  - [ ] Style: Dropdown Position
+  - [ ] Style: Dropdown Changes
 ```
 
 * Todos Gist for following along:
