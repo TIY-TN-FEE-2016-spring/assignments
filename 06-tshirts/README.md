@@ -53,7 +53,16 @@ Recreate the following design using HTML and SASS.
 
 The designer has given you a few things to work with:
 
-*
+* Brand Primary: `#3473b5`
+* Brand White: `#fff`
+
+* pink: `#e577aa`
+* Blue: `#72bbe9`
+* Green: `#7abe93`
+* Yellow: `#e5b178`
+
+* Gutter: `1rem`;
+* Max Content Width: `60rem`
 
 
 ## Tasks
