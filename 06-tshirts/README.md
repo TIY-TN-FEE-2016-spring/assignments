@@ -65,6 +65,7 @@ The designer has given you a few things to work with:
 ```
 * [ ] Fork `TIY-TN-FEE-2016-spring/06-tshirts`
 * [ ] Run `hub clone 06-tshirts` to clone your forked repo locally
+* [ ] Change directory into the newly created `06-tshirts` directory
 * [ ] Create a `develop` branch
 * [ ] Run `npm install` to install local dependancies for build tools
 * [ ] **GOAL**: Create 3 Wide Grid
