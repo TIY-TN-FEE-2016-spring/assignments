@@ -48,9 +48,13 @@ Recreate the following design using HTML and SASS.
 
 ![Desktop](desktop.png)
 
+![Desktop Footer](desktop-footer.png)
+
 #### Phone
 
 ![Phone](phone.png)
+
+![Phone Footer](phone-footer.png)
 
 The designer has given you a few things to work with:
 
@@ -114,6 +118,7 @@ The designer has given you a few things to work with:
   - [ ] Style: Grid Widths
   - [ ] Style: Photo Info
     * [ ] Style: Photo
+    * [ ] Style: Photo Filter (using CSSGram)
     * [ ] Style: Photo Title
     * [ ] Style: Photo Date Stamp
   - [ ] Style: Photo Details
