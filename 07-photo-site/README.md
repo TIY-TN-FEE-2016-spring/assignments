@@ -128,6 +128,16 @@ The designer has given you a few things to work with:
     * [ ] Style: Shutter Speed
     * [ ] Style: ISO
 * [ ] **GOAL** Duplicate Markup Photo Article
+* [ ] **GOAL** Markup Footer
+  - [ ] Markup: Footer Title
+  - [ ] Markup: Footer Article
+    * [ ] Markup: Footer Article Image
+    * [ ] Markup: Footer Article Title
+* [ ] **GOAL** Style Footer
+  - [ ] Style: Footer Title
+  - [ ] Style: Footer Article
+    * [ ] Style: Footer Article Image
+    * [ ] Style: Footer Article Title
 ```
 
-* Todos Gist for following along:
+* Todos Gist for following along: https://gist.github.com/rtablada/9a810d1ec777c952c78b
