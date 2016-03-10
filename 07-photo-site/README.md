@@ -79,6 +79,50 @@ The designer has given you a few things to work with:
 * [ ] Push `develop` branch
 * [ ] Create a pull request
 * [ ] Link Pull Request in TIYO
+* [ ] **GOAL** Markup Navigation
+  - [ ] Markup: Logo (Back and Teardrop)
+  - [ ] Markup: Site Name
+  - [ ] Markup: Right Menu
+* [ ] **GOAL**: Base Styles
+  - [ ] Style: General Resets
+  - [ ] Style: Background Color
+  - [ ] Style: Default Font Color
+* [ ] **GOAL** Style Navigation Desktop
+  - [ ] Style: Logo (Back and Teardrop)
+  - [ ] Style: Site Name
+  - [ ] Style: Right Menu
+* [ ] **GOAL** Markup Photographer Logo
+  - [ ] Markup: Avatar Image
+  - [ ] Markup: Triangle (awaiting asset)
+  - [ ] Markup: Site Title
+* [ ] **GOAL** Style Photographer Logo
+  - [ ] Style: Avatar Image
+  - [ ] Style: Triangle (awaiting asset)
+  - [ ] Style: Site Title
+* [ ] **GOAL** Markup Photo Article (Only 1 item)
+  - [ ] Markup: Photo Info
+    * [ ] Markup: Photo
+    * [ ] Markup: Photo Title
+    * [ ] Markup: Photo Date Stamp
+  - [ ] Markup: Photo Details
+    * [ ] Markup: Camera Name
+    * [ ] Markup: Lens
+    * [ ] Markup: F-Stop
+    * [ ] Markup: Shutter Speed
+    * [ ] Markup: ISO
+* [ ] **GOAL** Style Photo Article
+  - [ ] Style: Grid Widths
+  - [ ] Style: Photo Info
+    * [ ] Style: Photo
+    * [ ] Style: Photo Title
+    * [ ] Style: Photo Date Stamp
+  - [ ] Style: Photo Details
+    * [ ] Style: Camera Name
+    * [ ] Style: Lens
+    * [ ] Style: F-Stop
+    * [ ] Style: Shutter Speed
+    * [ ] Style: ISO
+* [ ] **GOAL** Duplicate Markup Photo Article
 ```
 
 * Todos Gist for following along:
