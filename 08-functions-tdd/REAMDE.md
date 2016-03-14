@@ -27,7 +27,7 @@ After completing this assignment, you should be able to effectively use:
 
 ### Deliverables
 
-* A project forked from the `08-functions-tdd` Repository
+* A project forked from the [`08-functions-tdd` Repository](https://github.com/TIY-TN-FEE-2016-spring/08-functions-tdd)
 
 ### Requirements
 
