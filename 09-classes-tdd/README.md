@@ -29,7 +29,7 @@ After completing this assignment, you should be able to effectively use:
 
 ### Deliverables
 
-* A project forked from the [`09-classes-tdd` Repository](https://github.com/TIY-TN-FEE-2016-spring/09-classes-tdd)
+* A project forked from the [`09-classes-tdd` Repository](https://github.com/TIY-TN-FEE-2016-spring/09-class-tdd)
 
 ### Requirements
 
