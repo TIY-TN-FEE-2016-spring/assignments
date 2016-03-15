@@ -43,6 +43,7 @@ Make all tests pass by implementing and filling in the functions.
 * [ ] Run `hub clone 09-class-tdd` to clone your repo locally
 * [ ] Run `npm install` in project directory to install test and build dependencies
 * [ ] Create `develop` branch
+* [ ] Run `npm run test` to run tests
 * [ ] **GOAL** `Foo`
   - [ ] Implement: `Foo` class
   - [ ] Implement: Create instance of `Foo` class
