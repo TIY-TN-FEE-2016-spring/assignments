@@ -29,7 +29,7 @@ After completing this assignment, you should be able to effectively use:
 
 ### Deliverables
 
-* A project forked from the [`09-classes-tdd` Repository](https://github.com/TIY-TN-FEE-2016-spring/09-class-tdd)
+* A project forked from the [`09-class-tdd` Repository](https://github.com/TIY-TN-FEE-2016-spring/09-class-tdd)
 
 ### Requirements
 
@@ -39,8 +39,8 @@ Make all tests pass by implementing and filling in the functions.
 ## Tasks
 
 ```
-* [ ] Fork Repository `TIY-TN-FEE-2016-spring/09-classes-tdd` on Github
-* [ ] Run `hub clone 09-classes-tdd` to clone your repo locally
+* [ ] Fork Repository `TIY-TN-FEE-2016-spring/09-class-tdd` on Github
+* [ ] Run `hub clone 09-class-tdd` to clone your repo locally
 * [ ] Run `npm install` in project directory to install test and build dependencies
 * [ ] Create `develop` branch
 * [ ] **GOAL** `Foo`
