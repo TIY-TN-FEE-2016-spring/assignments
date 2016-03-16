@@ -62,6 +62,9 @@ Make all tests pass by implementing and filling in the functions.
   - [ ] Implement: Calculate `readTime` for articles based on 200 wpm
   - [ ] Implement: Show read time to user
   - [ ] **DONE**: add, commit, push
+* [ ] **GOAL** Nav Bar Links
+  - [ ] Implement: Add a `nav` element to the DOM within the `.blog` element
+  - [ ] Implement: Add links for each article to the `nav` element
 ```
 
 * Todos Gist for following along: https://gist.github.com/rtablada/98710d37bdf1d795e3af
