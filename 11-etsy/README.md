@@ -70,4 +70,4 @@ Recreate this etsy result page:  https://www.etsy.com/search?q=ugg%20mug
     * [ ] **CHECKPOINT** CSS: Style shop item
 ```
 
-* Todos Gist for following along: https://gist.github.com/rtablada/98710d37bdf1d795e3af
+* Todos Gist for following along: https://gist.github.com/rtablada/ba455af65cbbe3335940
