@@ -69,8 +69,8 @@ Recreate this etsy result page:  https://www.etsy.com/search?q=ugg%20mug
     * [ ] **CHECKPOINT** JS: Modify `createResultShopItem` to add `div`s and to help with styling
     * [ ] **CHECKPOINT** CSS: Style shop item
   - [ ] **GOAL** Footer
-  * [ ] **CHECKPOINT** HTML: Footer
-  * [ ] **CHECKPOINT** CSS: Footer
+    * [ ] **CHECKPOINT** HTML: Footer
+    * [ ] **CHECKPOINT** CSS: Footer
   - [ ] **GOAL** User can search for goods
     * [ ] **CHECKPOINT** Create a `start` function that will
       * [ ] **CHECKPOINT** Start listening for clicks to the search button
@@ -79,3 +79,4 @@ Recreate this etsy result page:  https://www.etsy.com/search?q=ugg%20mug
 ```
 
 * Todos Gist for following along: https://gist.github.com/rtablada/ba455af65cbbe3335940
+* Todos Gist day 2: https://gist.github.com/rtablada/281aa6d3b221750f557b
