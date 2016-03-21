@@ -68,6 +68,14 @@ Recreate this etsy result page:  https://www.etsy.com/search?q=ugg%20mug
     * [ ] **CHECKPOINT** CSS: Make products div a grid container
     * [ ] **CHECKPOINT** JS: Modify `createResultShopItem` to add `div`s and to help with styling
     * [ ] **CHECKPOINT** CSS: Style shop item
+  - [ ] **GOAL** Footer
+  * [ ] **CHECKPOINT** HTML: Footer
+  * [ ] **CHECKPOINT** CSS: Footer
+  - [ ] **GOAL** User can search for goods
+    * [ ] **CHECKPOINT** Create a `start` function that will
+      * [ ] **CHECKPOINT** Start listening for clicks to the search button
+        * [ ] Check for value of the searchbar input
+        * [ ] Search and update results by calling `searchEtsy`
 ```
 
 * Todos Gist for following along: https://gist.github.com/rtablada/ba455af65cbbe3335940
