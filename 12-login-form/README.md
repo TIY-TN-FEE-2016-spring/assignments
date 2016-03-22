@@ -55,7 +55,7 @@ Let's assume you have the following users as an array `validCredentials`
 
 * `aaron@theironyard.com` / `password123`
 * `admin@google.com` / `pandas`
-* `<your email address>` / `honeycrisp`
+* `ryan@theironyard.com` / `honeycrisp`
 
 Then let's look at how the reduce function would work when `admin@google.com` and `pandas` are passed into `validate`:
 
@@ -73,9 +73,9 @@ Then let's look at how the reduce function would work when `foo` and `wat` are p
 | :------------- | :-------------------- | :------------- | :--------- | :--------------------------------------------------------- |
 | false          | aaron@theironyard.com | password123    | false      | The current username and password don't match the input    |
 | false          | admin@google.com      | pandas         | true       | The current username and password don't match the input    |
-| false          | ryan@theironyard.com  | honeycrisp     | fakse      | The current username and password don't match the input    |
+| false          | ryan@theironyard.com  | honeycrisp     | false      | The current username and password don't match the input    |
 
-Final result `true`
+Final result `false`
 
 ### Requirements
 
