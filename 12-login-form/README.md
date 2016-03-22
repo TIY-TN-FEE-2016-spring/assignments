@@ -33,6 +33,18 @@ After completing this assignment, you should be able to effectively use:
 ### Deliverables
 
 * A project forked from the [`12-login-form` Repository](https://github.com/TIY-TN-FEE-2016-spring/12-login-form)
+* You will be recreating the following design using HTML & CSS
+
+![Login Form](./login.png)
+
+* Valid username / password combinations should be:
+	* `aaron@theironyard.com` / `password123`
+	* `admin@google.com` / `pandas`
+	* `<your email address>` / `honeycrisp`
+
+* Use `type="password"` for the password input field so that the password is not shown in plain text to the user!
+
+The Logo, background top, and background bottom images are already supplied and in the `public` directory.
 
 ### Requirements
 
