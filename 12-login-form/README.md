@@ -48,6 +48,35 @@ The `<your email address>` will be configurable based on the email passed in to 
 
 The Logo, background top, and background bottom images are already supplied and in the `public` directory.
 
+### Tips for the `validate` Function
+
+Let's visualize the `reduce` function for the `validate` function.
+Let's assume you have the following users as an array `validCredentials`
+
+* `aaron@theironyard.com` / `password123`
+* `admin@google.com` / `pandas`
+* `<your email address>` / `honeycrisp`
+
+Then let's look at how the reduce function would work when `admin@google.com` and `pandas` are passed into `validate`:
+
+| Snowball Value | Current Email         | Password       | Result     | Why?                                                       |
+| :------------- | :-------------------- | :------------- | :--------- | :--------------------------------------------------------- |
+| false          | aaron@theironyard.com | password123    | false      | The current username and password don't match the input    |
+| false          | admin@google.com      | pandas         | true       | The current username and password match the input          |
+| true           | ryan@theironyard.com  | honeycrisp     | true       | The snowball was already true so we have found valid creds |
+
+Final result `true`
+
+Then let's look at how the reduce function would work when `foo` and `wat` are passed into `validate`:
+
+| Snowball Value | Current Email         | Password       | Result     | Why?                                                       |
+| :------------- | :-------------------- | :------------- | :--------- | :--------------------------------------------------------- |
+| false          | aaron@theironyard.com | password123    | false      | The current username and password don't match the input    |
+| false          | admin@google.com      | pandas         | true       | The current username and password don't match the input    |
+| false          | ryan@theironyard.com  | honeycrisp     | fakse      | The current username and password don't match the input    |
+
+Final result `true`
+
 ### Requirements
 
 Make all tests pass by implementing and filling in the functions.
