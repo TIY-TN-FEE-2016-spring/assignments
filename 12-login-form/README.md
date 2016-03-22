@@ -42,6 +42,8 @@ After completing this assignment, you should be able to effectively use:
 	* `admin@google.com` / `pandas`
 	* `<your email address>` / `honeycrisp`
 
+The `<your email address>` will be configurable based on the email passed in to the login form constructor.
+
 * Use `type="password"` for the password input field so that the password is not shown in plain text to the user!
 
 The Logo, background top, and background bottom images are already supplied and in the `public` directory.
