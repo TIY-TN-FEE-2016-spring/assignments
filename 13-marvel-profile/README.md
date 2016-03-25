@@ -77,6 +77,61 @@ Write a classes for:
 	- [ ] Characters
 	- [ ] Comics
 	- [ ] Modal
+* [ ] Create `index` module
+* [ ] Create `series-info-view` module
+	- [ ] Export SeriesInfoView class
+		* [ ] Constructor should accept
+			- [ ] An element to modify
+			- [ ] Data from Marvel API `/series/{id}`
+		* [ ] Render Series Data into EXISTING HTML
+			- [ ] Image SRC
+			- [ ] Title
+			- [ ] Start Date
+			- [ ] End Date
+			- [ ] List items for each creator
+* [ ] `fetch` Series data
+	- [ ] Parse response using `res.json()`
+	- [ ] Create a new `series-info-view` instance with the data returned from the API
+* [ ] Create `character-list-view` module
+	- [ ] Export CharacterListView class
+		* [ ] Constructor should accept
+			- [ ] An element to modify
+			- [ ] Data from Marvel API `/series/{id}/characters`
+		* [ ] Loop through each character result item
+			- [ ] Create new instance of `character-view`
+			- [ ] Append element from CharacterView into list element
+* [ ] Create `character-view` module
+	- [ ] Export CharacterView class
+		* [ ] Constructor should accept
+			- [ ] A single result from Marvel API `/series/{id}/characters` (not the full array)
+		* [ ] Create a new element that represents a single character
+		* [ ] Set any classes needed for character object
+		* [ ] Fill in character element
+			- [ ] Character thumbnail
+			- [ ] Character name
+* [ ] Create `comic-list-view` module
+	- [ ] Export ComicListView class
+		* [ ] Constructor should accept
+			- [ ] An element to modify
+			- [ ] Data from Marvel API `/series/{id}/comics`
+		* [ ] Loop through each comic result item
+			- [ ] Create new instance of `comic-view`
+			- [ ] Append element from ComicView into list element
+* [ ] Create `comic-view` module
+	- [ ] Export ComicView class
+		* [ ] Constructor should accept
+			- [ ] A single result from Marvel API `/series/{id}/comics` (not the full array)
+		* [ ] Create a new element that represents a single comic
+		* [ ] Set any classes needed for comic object
+		* [ ] Fill in comic element
+			- [ ] Comic thumbnail
+			- [ ] Comic issue number
+			- [ ] Comic title
+			- [ ] Comic description (in the modal card)
+		* [ ] Listen for click of the "Read More"
+			- [ ] Toggle a class on the modal for THIS comic to make it show
+		* [ ] Listen for click of the "X" in the modal
+			- [ ] Toggle a class on the modal for THIS comic to make it hide away
 ```
 
 * Todos Gist for following along: https://gist.github.com/rtablada/e7a0f4e597ad00666dd4
