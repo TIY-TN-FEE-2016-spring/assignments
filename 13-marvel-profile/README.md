@@ -79,4 +79,4 @@ Write a classes for:
 	- [ ] Modal
 ```
 
-* Todos Gist for following along: https://gist.github.com/rtablada/200af05a483c8ab18298
+* Todos Gist for following along: https://gist.github.com/rtablada/e7a0f4e597ad00666dd4
