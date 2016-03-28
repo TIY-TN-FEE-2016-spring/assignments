@@ -109,6 +109,9 @@ Write a classes for:
 		* [ ] Fill in character element
 			- [ ] Character thumbnail
 			- [ ] Character name
+* [ ] `fetch` Character data for a series `/series/{id}/characters`
+	- [ ] Parse response using `res.json()`
+	- [ ] Create a new `character-list-view` instance with character list element & the data returned from the API
 * [ ] Create `comic-list-view` module
 	- [ ] Export ComicListView class
 		* [ ] Constructor should accept
@@ -132,6 +135,9 @@ Write a classes for:
 			- [ ] Toggle a class on the modal for THIS comic to make it show
 		* [ ] Listen for click of the "X" in the modal
 			- [ ] Toggle a class on the modal for THIS comic to make it hide away
+* [ ] `fetch` Comic data for a series `/series/{id}/comics`
+	- [ ] Parse response using `res.json()`
+	- [ ] Create a new `comic-list-view` instance with comic list element & the data returned from the API
 ```
 
 * Todos Gist for following along: https://gist.github.com/rtablada/e7a0f4e597ad00666dd4
