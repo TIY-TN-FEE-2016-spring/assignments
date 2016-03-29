@@ -136,4 +136,4 @@ http://tiny-tn.herokuapp.com/collections/ryan-puppy
 			- [ ] Close/Hide the form
 ```
 
-* Todos Gist for following along:
+* Todos Gist for following along: https://gist.github.com/rtablada/f86cd1018cc17d07017a
