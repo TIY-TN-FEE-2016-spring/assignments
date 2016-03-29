@@ -53,6 +53,15 @@ Write a classes for:
 * `PuppyView` - Fills in the HTML for a single puppy, captures events for destroying events and updating puppies
 * `CreateFormView` - Toggles top navigation form, captures save for creating a new puppy
 
+## Resources
+
+I would recommend that you work on listing existing puppies before working on a form to create puppies.
+If you would like to use an existing collection, make your `GET` requests to:
+
+http://tiny-tn.herokuapp.com/collections/ryan-puppy
+
+> Please switch to your own collection when you go to Create, Update, or Delete puppy records so that you don't change this data for you classmates!
+
 ## Tasks
 
 ```
@@ -83,13 +92,21 @@ Write a classes for:
 	- [ ] Declare a contstructor that:
 		* [ ] Makes `fetch` request to `tiny-tn` and set view data when request is complete and calls `render`
 		* [ ] Creates and attaches a new `CreateFormView` to the top navigation
+	- [ ] Declare an `add` method that:
+		* [ ] Takes a single argument for the puppy to be added to the data set shown to the user
+		* [ ] Updates the application `data` by adding the new puppy to the end of the data set
+		* [ ] Calls `render` on the current application instance to update what the user sees
+	- [ ] Declare a `remove` method that:
+		* [ ] Takes a single argument for the puppy to be added to the data set shown to the user
+		* [ ] Updates the application `data` using either `reduce` or `filter` to remove the puppy for the id passed in
+		* [ ] Calls `render` on the current application instance to update what the user sees
 * [ ] Create `puppy-view` module that exports a `PuppyView` class
 	- [ ] Declare a contstructor that:
 		* [ ] Accepts arguments for the current puppy and the application instance
 		* [ ] Creates an element to represent a single puppy object
 		* [ ] Creates empty DOM for a single puppy card
 		* [ ] Calls `render`
-		* [ ] Listens for `sumbit` events on the edit form and that:
+		* [ ] Listens for `submit` events on the edit form and that:
 			- [ ] Looks up the current values for form inputs
 			- [ ] Makes a `fetch` `PUT` request to update current puppy with the server
 			- [ ] Use `Object.assign` to copy values from fetch response on to the data object.
@@ -97,6 +114,26 @@ Write a classes for:
 		* [ ] Listens for `click` event on "X" to:
 			- [ ] Make a `fetch` `DELETE` request to destroy the current puppy from the server
 			- [ ] Call `remove` on the `application` to stop showing the element to the user and remove from the local data set
+	- [ ] Create a render function that fills in the HTML for a single puppy card with properties from the current data
+		* [ ] Form Values
+			- [ ] Name
+			- [ ] Age
+			- [ ] Profile URL
+			- [ ] Profile
+		* [ ] Profile Picture
+			- [ ] `src`
+			- [ ] `alt`
+* [ ] Create `create-form` module that exports an `CreateFormView` class
+	- [ ] Create a `contstructor` function that:
+		* [ ] Accepts an element and the application instance
+		* [ ] Listens for a `click` of the plus button
+			- [ ] Toggles a class to hide/show the top form
+		* [ ] Listens for a `submit` of the form
+			- [ ] Looks up the current values for form inputs
+			- [ ] Makes a `fetch` `POST` request to create a new puppy with the server
+			- [ ] Calls the `add` function on the application to update list of available puppies
+			- [ ] Unfill all inputs
+			- [ ] Close/Hide the form
 ```
 
 * Todos Gist for following along:
