@@ -73,4 +73,8 @@ After completing this assignment, you should be able to effectively use:
 * [ ] Loop through data within your application template and render required HTML or components
 ```
 
+## Hard Mode
+
+When the user clicks on the score change button, save updated score to the server.
+
 * Todos Gist for following along: https://gist.github.com/rtablada/6df2401af2cf55f25e9ad38c972753e1
