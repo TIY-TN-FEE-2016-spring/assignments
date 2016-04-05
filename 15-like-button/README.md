@@ -61,12 +61,12 @@ After completing this assignment, you should be able to effectively use:
 * [ ] Run `hub create` to create a new repository on Github
 * [ ] Push `master` branch
 * [ ] Create `develop` branch
-* [ ] Generate a new `like-couter` component
-* [ ] Create `like-couter` in your `application.hbs` template with a `score` attribute of `0`
-* [ ] Work on `like-couter` component implementation
-	- [ ] Build basic HTML for a `like-couter` in the `.hbs` file for this component
+* [ ] Generate a new `like-counter` component
+* [ ] Create `like-counter` in your `application.hbs` template with a `score` attribute of `0`
+* [ ] Work on `like-counter` component implementation
+	- [ ] Build basic HTML for a `like-counter` in the `.hbs` file for this component
 	- [ ] Create action function for changing scores in `.js` file for this component
-	- [ ] Add action to buttons in the `like-couter` template
+	- [ ] Add action to buttons in the `like-counter` template
 * [ ] Create `routes/application.js` file
 * [ ] Create `model` hook within the new application route
 * [ ] Fetch data from `http://tiny-tn.herokuapp.com/collections/movies` and parse JSON response
