@@ -57,7 +57,7 @@ After completing this assignment, you should be able to effectively use:
 ## Tasks
 
 ```
-* [ ] Create a new project named "14-like-button" using the `ember new` command
+* [ ] Create a new project named "like-button-14" using the `ember new` command
 * [ ] Run `hub create` to create a new repository on Github
 * [ ] Push `master` branch
 * [ ] Create `develop` branch
