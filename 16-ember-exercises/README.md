@@ -103,9 +103,11 @@ These links will help you get around the application and your different routes.
 	- [ ] Submit values for a person
 	- [ ] Check for new person record by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-people`
 * [ ] Generate a new `blogs` route
+	- [ ] Change URL in browser to `localhost:4200/blogs`
 	- [ ] Load data from `https://tiny-tn.herokuapp.com/collections/blogs` in `blogs` Route file
 	- [ ] Loop through data in `blogs` template and show markup for blog article
 * [ ] Generate a new `bookmarks` route
+	- [ ] Change URL in browser to `localhost:4200/bookmarks`
 	- [ ] Load data from `https://tiny-tn.herokuapp.com/collections/<your-initials>-bookmarks` in `bookmarks` Route file
 	- [ ] Loop through data in `bookmarks` template and show markup for blog article
 	- [ ] Create markup for bookmark form in Handlebars template
@@ -117,6 +119,7 @@ These links will help you get around the application and your different routes.
 	- [ ] Add new bookmark to array of existing loaded bookmarks
 	- [ ] Check for new person record by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-bookmarks`
 * [ ] Generate a new `contacts` route
+	- [ ] Change URL in browser to `localhost:4200/contacts`
 	- [ ] Load data from `https://tiny-tn.herokuapp.com/collections/<your-initials>-people` in `contacts` Route file
 	- [ ] Loop through data in `contacts` template and show markup for blog article
 	- [ ] Create markup for button to show "New Contact" form
