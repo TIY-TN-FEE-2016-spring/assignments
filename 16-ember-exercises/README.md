@@ -73,6 +73,8 @@ After completing this assignment, you should be able to effectively use:
 
 * [Ember Guides (Tutorial Section)](https://guides.emberjs.com/v2.4.0/tutorial/ember-cli/)
 
+* http://ember-exercises.surge.sh/
+
 ## Getting started tips
 
 In your `application.hbs` file add:
