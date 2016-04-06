@@ -109,7 +109,7 @@ These links will help you get around the application and your different routes.
 * [ ] Generate a new `bookmarks` route
 	- [ ] Change URL in browser to `localhost:4200/bookmarks`
 	- [ ] Load data from `https://tiny-tn.herokuapp.com/collections/<your-initials>-bookmarks` in `bookmarks` Route file
-	- [ ] Loop through data in `bookmarks` template and show markup for blog article
+	- [ ] Loop through data in `bookmarks` template and show markup for bookmark
 	- [ ] Create markup for bookmark form in Handlebars template
 	- [ ] Add `action` to form in template
 	- [ ] Generate `bookmarks` controller
@@ -117,21 +117,21 @@ These links will help you get around the application and your different routes.
 	- [ ] Submit values for a bookmark
 	- [ ] Clear bookmark form
 	- [ ] Add new bookmark to array of existing loaded bookmarks
-	- [ ] Check for new person record by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-bookmarks`
+	- [ ] Check for new bookmark record by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-bookmarks`
 * [ ] Generate a new `contacts` route
 	- [ ] Change URL in browser to `localhost:4200/contacts`
 	- [ ] Load data from `https://tiny-tn.herokuapp.com/collections/<your-initials>-people` in `contacts` Route file
-	- [ ] Loop through data in `contacts` template and show markup for blog article
+	- [ ] Loop through data in `contacts` template and show markup for each contact
 	- [ ] Create markup for button to show "New Contact" form
 	- [ ] Generate `contacts` controller
 	- [ ] Add `action` to toggle showing "New Contact" form
 	- [ ] Create markup for bookmark form in Handlebars template that only shows when "New Contact" button has been pressed
 	- [ ] Add `action` to form in template
-	- [ ] Create `addContact` method to `index` controller
+	- [ ] Create `addContact` method to `contacts` controller
 		- [ ] Submit values for a bookmark
 		- [ ] Clear bookmark form
 	- [ ] Add new bookmark to array of existing loaded contacts
-	- [ ] Check for new person record by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-people`
+	- [ ] Check for new person data by going to `https://tiny-tn.herokuapp.com/collections/<your-initials>-people`
 	- [ ] Add markup for delete button for a contact
 	- [ ] Add action to `deleteContact`
 	- [ ] Send request to server to delete contact record
