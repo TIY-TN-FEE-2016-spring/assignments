@@ -138,4 +138,4 @@ These links will help you get around the application and your different routes.
 	- [ ] Update list when user has been deleted on server
 ```
 
-* Todos Gist for following along:
+* Todos Gist for following along: https://gist.github.com/rtablada/706ea1904ce8a9b9d2a93150be8811d6
