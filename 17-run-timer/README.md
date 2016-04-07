@@ -1,4 +1,4 @@
-# Run Timer with Backbone
+# Run Timer
 
 ## Description
 
