@@ -207,3 +207,5 @@ By the end of this application you should be able to see all runs, create new ru
       - [ ] After save, redirect to run detail page for updated run
     * [ ] Complete: Commit & Push
 ```
+
+Todo list gist rendered: https://gist.github.com/rtablada/ebd6bd9d61eaee4c12729c340550cfc0
