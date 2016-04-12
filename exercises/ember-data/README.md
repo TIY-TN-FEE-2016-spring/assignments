@@ -54,6 +54,8 @@ Working in groups, create the following application
 
 You may style using SASS or by using something like [`ember-bootstrap`](http://kaliber5.github.io/ember-bootstrap/)
 
+For the API, use `https://image-board-api.herokuapp.com/images`
+
 ## Tasks
 
 Work as a group to create your task list 😉
