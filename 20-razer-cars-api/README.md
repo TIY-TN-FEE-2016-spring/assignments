@@ -42,4 +42,5 @@ ember serve
 
 ### Resources
 
+* [Loopback Instructions](https://rtablada.gitbooks.io/spring-2016-fee/content/resources/loopback.html)
 * https://github.com/TIY-TN-FEE-2016-spring/razer-cars/tree/master/app/models
